@@ -1,0 +1,41 @@
+p{
+	color: yellowgreen;
+	background-color: blueviolet;
+	margin: 50px;
+	margin-top: 100px;
+
+
+}
+
+#parrafo1{
+	background-color: orange;
+	text-align: center;
+	border: 1px solid yellowgreen;
+	border-width:5px;
+	border-style: dotted;
+	border-color: darkcyan;
+	border-radius: 8px;
+}
+
+#parrafo2{
+	background-color: darkred;
+	font-family:"serif;","cursive;";
+}
+
+#parrafo3{
+	background-color: green;
+}
+
+.parrafo{
+ font-size:20px;
+}
+
+h1{
+	text-align: center;
+	display: none;
+}
+#cuadro a{
+	color: black;
+	text-decoration: none;
+	font-size: 30px;
+}
